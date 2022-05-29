@@ -17,7 +17,7 @@ font-family:'Roboto', Verdana, sans-serif;}
 .page-header {background-color: var(--third-background-color);}
 .logo-header {color: var(--accent-color);
 text-decoration: none;
-font-family: 'Raleway';
+font-family: 'Raleway', sans-serif;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
@@ -76,7 +76,6 @@ line-height: 1.14;
 letter-spacing: 0.03em;
 text-transform: uppercase;}
 .features-paragraph {color: var(--paragraph-text-color);
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;}
@@ -109,7 +108,6 @@ line-height: 1.18;
 text-align: center;
 letter-spacing: 0.03em;}
 .team-paragraph {color: var(--paragraph-text-color);
-font-weight: 400;
 font-size: 16px;
 line-height: 1.18;
 text-align: center;
@@ -141,7 +139,6 @@ font-size: 18px;
 line-height: 2;
 letter-spacing: 0.06em;}
 .gallery-paragraph {
-font-weight: 400;
 font-size: 16px;
 line-height: 1.87;
 letter-spacing: 0.03em;}
@@ -153,7 +150,7 @@ letter-spacing: 0.03em;}
 /*--------------------Footer----------------------------*/
 .footer {background-color: var(--secondary-background-color);}
 .logo-footer {color: var(--accent-color); text-decoration: none;
-font-family: 'Raleway';
+font-family: 'Raleway', sans-serif;
 font-weight: 700;
 font-size: 26px;
 line-height: 1.19;
@@ -164,7 +161,6 @@ letter-spacing: 0.03em;}
 .footer-list {list-style-type: none;}
 .footer-contacts {text-decoration: none;
 font-style: normal;
-font-weight: 400;
 font-size: 14px;
 line-height: 1.71;
 letter-spacing: 0.03em;}
